@@ -8,3 +8,5 @@ EE7390: Pattern Recognition and Machine Learning (Project)
 * **I**nfected (infectious and can spread disease)
 * **R**ecovered (were infected, immnune to the disease)
 * **D**eath (deceased)
+
+[My Image](SIRD_model.png). 
