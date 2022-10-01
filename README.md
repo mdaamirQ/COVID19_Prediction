@@ -1,5 +1,5 @@
 # COVID19_prediction
-![My Image](covid-19.png). 
+![My Image](covid-19.png)   
 EE7390: Pattern Recognition and Machine Learning (Project)
 
 # SEIRD  Model:
@@ -9,4 +9,4 @@ EE7390: Pattern Recognition and Machine Learning (Project)
 * **R**ecovered (were infected, immnune to the disease)
 * **D**eath (deceased)
 
-[My Image](SIRD_model.png). 
+![My Image](SIRD_model.png)   
