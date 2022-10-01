@@ -1,7 +1,9 @@
 # COVID19_prediction
 ![My Image](covid-19.png)   
 EE7390: Pattern Recognition and Machine Learning (Project)   
-Grade: **A+** 
+Grade: **A+**   
+Date: March-2020     
+BTech-EE, IIT Hyderabad   
 
 # SEIRD  Model:
 * **S**usceptible (can be infected, 'Healthy')
