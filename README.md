@@ -1,6 +1,6 @@
 # COVID19_prediction
 ![My Image](covid-19.png)   
-EE7390: Pattern Recognition and Machine Learning (Project) 
+EE7390: Pattern Recognition and Machine Learning (Project)   
 Grade: **A+** 
 
 # SEIRD  Model:
