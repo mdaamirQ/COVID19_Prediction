@@ -1,4 +1,5 @@
 # COVID19_prediction
+![My Image](my-image.jpg)
 EE7390: Pattern Recognition and Machine Learning (Project)
 
 # SEIRD  Model:
