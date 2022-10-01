@@ -20,4 +20,4 @@ Grade: **A+**
 * **R**ecovered (were infected, but now immnune to the disease)
 * **D**eath (deceased)
 
-![My Image](SEICRD_model.png)   
+![My Image](SEICRD.png)   
